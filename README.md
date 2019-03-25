@@ -2,7 +2,7 @@
 
 Authetication form using firebase 
 
-username: Test@test.com
+username: Test@test.com <br/>
 password: password
 
 ![1](https://user-images.githubusercontent.com/33598165/54918432-11f00080-4f20-11e9-8df5-7fad93d73622.png)
